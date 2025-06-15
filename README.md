@@ -90,7 +90,8 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ## 📸 Screenshots
 
-> _(Add screenshots or Loom video here)_
+<img width="1470" alt="Screenshot 2025-06-16 at 5 11 29 AM" src="https://github.com/user-attachments/assets/de6e36af-1f33-4d0a-9a1b-c95490dec0cd" />
+
 
 ---
 
@@ -99,15 +100,6 @@ Visit: [http://localhost:5173](http://localhost:5173)
 **Vijay Kalidas Pawar**  
 📧 vijukp9999@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-pawar-0542432b2/?originalSubdomain=in)
-
----
-
-## ⭐ GitHub Tip
-
-If pushing this project to GitHub:
-- Rename this file as `README.md`
-- Add a GitHub repo description + tags
-- Consider adding a video walkthrough
 
 ---
 
